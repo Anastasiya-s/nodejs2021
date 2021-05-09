@@ -1,0 +1,23 @@
+{
+  "name": "nodejs2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "commander": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasiya-s/nodejs2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasiya-s/nodejs2021/issues"
+  },
+  "homepage": "https://github.com/Anastasiya-s/nodejs2021#readme"
+}
